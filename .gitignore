@@ -1,1 +1,4 @@
-*.json
+output.json
+resumes_by_id.json
+resumes_processed.json
+.ipynb_checkpoints/
